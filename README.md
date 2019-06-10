@@ -4,7 +4,6 @@ A lidl Ruby script that fetches cat facts (_tongue twister, mind..._) from [cat-
 ## Instructions
 ```
 git clone https://github.com/thealiilman/cattify.git
-```
-```
+cd cattify
 ruby cattify.rb
 ```
